@@ -1,3 +1,3 @@
 # 100devs Resources
 
-- https://100devsfollowalong.netlify.app/index.html
+- [Complete List and Projects of 100 devs](https://100devsfollowalong.netlify.app/index.html)
